@@ -17,4 +17,3 @@ It additionally provides the scripts to glue the outputs of these pipelines.
 Once these tools are installed, the paths to the executables have to be added to the scripts/config file.
 
 
-
